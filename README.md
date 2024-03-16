@@ -15,3 +15,9 @@ By applying first principles thinking to the problems of cost and reusability, E
 
 # Cyber Security
 Then, what is the first principle or the most basic elements in Cyber security?  Before finding a definition of cyber security, I would like to figure out the core problem that we need to solve in cybersecurity.  Practitioners in information security are constantly working to address emerging threats and challenges.  But the fundumental problem should seldom change.
+
+In Rick Howards Cybersecurity First Principles that I mentioned above, Rick lays out a notional roadmap for cybersecurity’s first principle, which can be seen at the foundation of the image below.
+
+![4782f6cd-81b3-407c-af9a-c77c4f6a894c_1340x1308](https://github.com/justinlaw360/firstprinciple/assets/4946026/41780960-06eb-4b06-9b77-b7ac03f67f52)
+
+This means that cybersecurity’s first principle, theoretically, and of which I am sure many practitioners would agree with, is to “Reduce the Probability of Material Impact”.
