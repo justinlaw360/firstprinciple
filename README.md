@@ -68,6 +68,34 @@ Let's zoom in what is the material impact.  I sort out the most citrical securit
 |January      |T-Mobile                                             |Second data breach of the year, affecting 836 customers with theft of personal details                                       |personal data    |Exfiltration    |Data Disclosure|
 |January      |JD Sports                                            |Leaked personal information of 10 million customers, including names, addresses, phone numbers, and payment details          |personal data    |Exfiltration    |Data Disclosure|
 
+# Material Impacts to Security Area
+We further think about the material impact, and map into IT Security area.
+|Material Impact|Security Area                                        |
+|---------------|-----------------------------------------------------|
+|Data Disclosure|Authentication                                       |
+|Data Disclosure|Authorization                                        |
+|Data Disclosure|Business Logic                                       |
+|Data Disclosure|Cryptography                                         |
+|Data Disclosure|Data Protection                                      |
+|Data Disclosure|Data Validation                                      |
+|Data Disclosure|Database                                             |
+|Data Disclosure|Error Handling                                       |
+|Data Disclosure|Logging and Monitoring                               |
+|Data Disclosure|Network Communication                                |
+|Data Disclosure|Operating System                                     |
+|Data Disclosure|Session Management                                   |
+|Data Disclosure|Third-Party Integrations                             |
+|Data Disclosure|Third-Party Libraries                                |
+|Data Disclosure|User Authentication                                  |
+|Data Disclosure|Web Application                                      |
+|Data Integrity |Authorization                                        |
+|Data Integrity |Network Communication                                |
+|Service Availability|Authentication                                       |
+|Service Availability|Data Validation                                      |
+|Service Availability|Database                                             |
+|Service Availability|Network Communication                                |
+|Service Availability|Third-Party Libraries                                |
+
 
 # Cyber Security Team
 ![IS Team](https://github.com/justinlaw360/firstprinciple/assets/4946026/e1690335-44bc-4fd7-9e22-321ff50c5659)
