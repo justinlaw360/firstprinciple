@@ -239,6 +239,53 @@ Then, map the security area into risks.
 |Data Validation|XML External Entity (XXE) attacks                    |Data Disclosure     |Disable external entity parsing or use secure parsers                  |XML Firewalls                                                  |
 |Data Validation|XML External Entity (XXE) attacks                    |Data Disclosure     |Disable external entity parsing or use secure parsers                  |XML Security Gateway                                           |
 
+# Essential Security Protection Measures
+
+|Cybersecurity Products|Products|
+|-------------|
+|Access Control Systems|
+|API Gateways|
+|Backup and Recovery solutions|
+|Backup Encryption solutions|
+|Blockchain technology|
+|CAPTCHA|
+|Data Loss Prevention (DLP) solutions|
+|Database Auditing solutions|
+|Database Firewalls|
+|DDoS protection solutions|
+|DDoS solution|
+|Digital signatures|
+|Disaster Recovery solutions|
+|Dynamic Application Security Testing (DAST) tools|
+|EDR|
+|Email Threat Prevention (ETP) System|
+|Encryption libraries|
+|Encryption solutions|
+|Hardware Security Modules (HSMs)|
+|Identity and Access Management (IAM) solutions|
+|Incident Response Platforms|
+|Intrusion Detection and Prevention Systems (IDPS)|
+|Key Management Systems|
+|Load Balancing System|
+|Message integrity checks|
+|Next Generation Firewalls|
+|Privileged Access Management (PAM)|
+|QoS Firewalls|
+|SCCM|
+|Secure Logging and Monitoring solutions|
+|Secure Session Management solutions|
+|Security Awareness Training|
+|Security Information and Event Management (SIEM) solutions|
+|Security Orchestration Automation and Response (SOAR) solutions|
+|Software Composition Analysis (SCA) tools|
+|Static Code Analysis tools|
+|TLS/SSL certificates|
+|Transparent Data Encryption (TDE) technology|
+|Vendor Risk Management solutions|
+|Vulnerability Management solutions|
+|Web Application Firewalls (WAF)|
+|XML Firewalls|
+|XML Security Gateway|
 
 # Cyber Security Team
 ![IS Team](https://github.com/justinlaw360/firstprinciple/assets/4946026/e1690335-44bc-4fd7-9e22-321ff50c5659)
