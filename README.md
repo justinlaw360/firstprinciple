@@ -240,7 +240,7 @@ Then, map the security area into risks.
 |Data Validation|XML External Entity (XXE) attacks                    |Data Disclosure     |Disable external entity parsing or use secure parsers                  |XML Security Gateway                                           |
 
 # Essential Security Protection Measures
-
+So, it is induced that the following security measures are minimum to an organization to have proper security protection against cyber attacks.  
 |Cybersecurity Measures|
 |-------------|
 |Access Control Systems|
