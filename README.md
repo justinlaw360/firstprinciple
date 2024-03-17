@@ -25,7 +25,7 @@ This means that cybersecurity’s first principle is to “Reduce the Probabilit
 
 # Cyber Security Incidents Analysis
 
-Let's zoom in what is the material impact.  I sort out the most citrical security incidents in each month of 2023 as table below.  Most impact is data leakage due to exfiltration by hackers.
+Let's zoom in what is the material impact.  I sort out the most citrical security incidents in each month of 2023 as table below.  Most belong to the impact of data leakage due to exfiltration by hackers.
 
 |Month in 2023|Victim Company                                       |Incident Description                                                                                                         |Data involved    |Root Cause      |Material Impact|
 |-------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|---------------|
