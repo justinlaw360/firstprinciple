@@ -283,5 +283,22 @@ So, it is induced that the following security measures are minimum to an organiz
 |XML Firewalls|
 |XML Security Gateway|
 
+# NSA definition
+|Principle                |Definition                                                                                                                                     |Examples                                                                                                                                                    |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1. Domain Separation     |Refers to separating domains or areas of responsibility and control to enforce rules and protect data or resources.                            |- Computer processors running in supervisor and user domains. - Virtual machines or containers as separate domains.                                         |
+|2. Process Isolation     |Involves isolating processes (programs) from each other to prevent interference or tampering. Each process has its own memory space and state. |- Word processor, database, and browser running in separate memory spaces. - Prosecution and defense attorneys running their cases separately in court.     |
+|3. Resource Encapsulation|Resources, such as memory or disk drives, are encapsulated to control access and manipulation according to intended design.                    |- Website application logic encapsulating database access. - Text messaging and email programs on phones with limited data access.                          |
+|4. Least Privilege       |Users and programs should only have the minimum privileges necessary to perform their tasks, reducing the risk of misuse or accidental actions.|- Limiting administrative privileges on a computer to prevent malware attacks. - Revoking an employee's email account after leaving a company.              |
+|5. Layering              |Employing multiple layers of protection that an attacker must overcome, increasing the difficulty of breaching a system.                       |- Moat, walls, and guards protecting a castle. - Firewall, intrusion detection systems, and access controls as layers of enterprise data protection.        |
+|6. Abstraction           |Representing complex systems or concepts in a simplified manner, reducing complexity and potential distractions.                               |- Gauges in a car representing the car's performance. - A map as an abstraction of an area.                                                                 |
+|7. Data Hiding           |Allowing only necessary aspects of data structures or records to be observed or accessed, preventing unauthorized changes or misuse.           |- Restricting access to certain data fields based on user roles. - Logging access attempts to monitor data manipulation.                                    |
+|8. Modularization        |Breaking down complex systems or tasks into smaller, manageable modules for easier development and maintenance.                                |- Dividing a software application into separate modules with specific functions. - Breaking down a construction project into different phases or components.|
+|9. Simplification        |Striving for simplicity in design and implementation to reduce complexity and potential vulnerabilities.                                       |- Removing unnecessary features or functionalities from a software product. - Streamlining administrative processes to minimize potential errors.           |
+|10. Minimization         |Minimizing the attack surface by reducing the amount of code, features, or privileges, thereby reducing potential vulnerabilities and risks.   |- Removing unused or unnecessary code from a software application. - Limiting network services and protocols to essential ones only.                        |
+
+
 # Cyber Security Team
+In order to implement proper security controls and measures, a team of security profession must be hired.  Different skillset, knowledage and experience are grouped into different teams.  Separation of duties and Conflict of interest should also be considered.
+
 ![IS Team](https://github.com/justinlaw360/firstprinciple/assets/4946026/e1690335-44bc-4fd7-9e22-321ff50c5659)
