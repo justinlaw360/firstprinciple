@@ -19,7 +19,7 @@ Then, what is the first principle or the most basic elements in Cyber security? 
 In Rick Howards Cybersecurity First Principles, Rick lays out a notional roadmap for cybersecurity’s first principle, which can be seen at the foundation of the image below.
 
 ![4782f6cd-81b3-407c-af9a-c77c4f6a894c_1340x1308](https://github.com/justinlaw360/firstprinciple/assets/4946026/41780960-06eb-4b06-9b77-b7ac03f67f52)
-Diagram from: Cybersecurity First Principles (Mar 2023, Rick Howards)
+<kbd>Diagram from: Cybersecurity First Principles (Mar 2023, Rick Howards)<kbd>
 
 This means that cybersecurity’s first principle is to “Reduce the Probability of **Material Impact**”.
 
