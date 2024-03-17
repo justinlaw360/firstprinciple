@@ -20,4 +20,7 @@ In Rick Howards Cybersecurity First Principles, Rick lays out a notional roadmap
 
 ![4782f6cd-81b3-407c-af9a-c77c4f6a894c_1340x1308](https://github.com/justinlaw360/firstprinciple/assets/4946026/41780960-06eb-4b06-9b77-b7ac03f67f52)
 
-This means that cybersecurity’s first principle, theoretically, and of which I am sure many practitioners would agree with, is to “Reduce the Probability of **Material Impact**”.
+This means that cybersecurity’s first principle is to “Reduce the Probability of **Material Impact**”.
+
+# Cyber Security Team
+![IS Team](https://github.com/justinlaw360/firstprinciple/assets/4946026/e1690335-44bc-4fd7-9e22-321ff50c5659)
