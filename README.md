@@ -241,7 +241,7 @@ Then, map the security area into risks.
 
 # Essential Security Protection Measures
 
-|Cybersecurity Products|Products|
+|Cybersecurity Measures|
 |-------------|
 |Access Control Systems|
 |API Gateways|
