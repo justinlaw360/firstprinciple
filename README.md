@@ -245,21 +245,18 @@ Then, map the security area into risks.
 |-------------|
 |Access Control Systems|
 |API Gateways|
-|Backup and Recovery solutions|
-|Backup Encryption solutions|
+|Backup Encryption and Recovery solutions|
 |Blockchain technology|
 |CAPTCHA|
 |Data Loss Prevention (DLP) solutions|
 |Database Auditing solutions|
 |Database Firewalls|
 |DDoS protection solutions|
-|DDoS solution|
 |Digital signatures|
 |Disaster Recovery solutions|
 |Dynamic Application Security Testing (DAST) tools|
 |EDR|
 |Email Threat Prevention (ETP) System|
-|Encryption libraries|
 |Encryption solutions|
 |Hardware Security Modules (HSMs)|
 |Identity and Access Management (IAM) solutions|
@@ -270,7 +267,6 @@ Then, map the security area into risks.
 |Message integrity checks|
 |Next Generation Firewalls|
 |Privileged Access Management (PAM)|
-|QoS Firewalls|
 |SCCM|
 |Secure Logging and Monitoring solutions|
 |Secure Session Management solutions|
