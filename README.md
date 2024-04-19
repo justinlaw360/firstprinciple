@@ -299,6 +299,10 @@ So, it is induced that the following security measures are minimum to an organiz
 
 
 # Cyber Security Team
-In order to implement proper security controls and measures, a team of security profession must be hired.  Different skillset, knowledage and experience are grouped into different teams.  Separation of duties and Conflict of interest should also be considered.
+In order to implement proper security controls and measures, a team of security professional persons must be hired.  Different skillset, knowledage and experience are grouped into teams. 
 
 ![IS Team](https://github.com/justinlaw360/firstprinciple/assets/4946026/e1690335-44bc-4fd7-9e22-321ff50c5659)
+
+# In Summary
+Cybersecurity is to reduce the possibility from material impacts, that caused by data disclosure, data tampering and data unavaibile.  And Cybersecurity framework, such as CIS, NIST, ISO27000, provide guidance to organsiation to manage cybersecurity.  The essential security measures should be implemented in every organization to prevent data exfiltration.  Last but in least, a team of well trained security professional (e.g. CISSP, CISA) could make the things happen effectively.
+
